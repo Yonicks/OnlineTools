@@ -1,0 +1,21 @@
+.appMainArea {
+  display: flex;
+  flex-direction: column;
+}
+
+.textArea {
+  display: flex;
+  margin: 10px;
+
+  > * {
+    flex: 1;
+  }
+}
+
+.actionsArea {
+  display: flex;
+
+  > * {
+    margin-right: 10px;
+  }
+}

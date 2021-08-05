@@ -33,6 +33,9 @@
     "sort-my-list-e2e": {
       "tags": [],
       "implicitDependencies": ["sort-my-list"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
